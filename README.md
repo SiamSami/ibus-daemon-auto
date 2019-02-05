@@ -4,4 +4,4 @@ Program to automatically start ibus daemon on startup
 Simply put the `Ibus.desktop` file into `$HOME/.config/autostart/`
 #### or,
 Open a terminal in the extracted directory and type the following command,\
- `cp Ibus.desktop $HOME/.config/autostart`
+ `cp Ibus.desktop $HOME/.config/autostart/`
