@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name = Ibus
+Type=Application
+Terminal=false
+Exec =ibus-daemon -drx
